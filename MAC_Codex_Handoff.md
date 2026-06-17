@@ -15,6 +15,7 @@ The user wants two things to be visible from Mac:
 2. the Windows-side pet prototype called "咕咕嘎嘎"
 
 For a usable handoff, also fill in `PROJECT_CONTEXT_TEMPLATE.md` and `PET_PROTOTYPE_NOTES.md`.
+If the visual or motion assets are missing, check `ASSET_INVENTORY.md`.
 
 ## Known context
 
@@ -28,9 +29,10 @@ For a usable handoff, also fill in `PROJECT_CONTEXT_TEMPLATE.md` and `PET_PROTOT
 2. Read `README.md`
 3. Read `PROJECT_CONTEXT_TEMPLATE.md`
 4. Read `PET_PROTOTYPE_NOTES.md`
-5. Inspect the rest of the repository
-6. Look for the original implementation files or references
-7. If the actual project content is missing, ask for the source repo or the missing files rather than guessing
+5. Read `ASSET_INVENTORY.md`
+6. Inspect the rest of the repository
+7. Look for the original implementation files or references
+8. If the actual project content is missing, ask for the source repo or the missing files rather than guessing
 
 ## What is not known yet
 
