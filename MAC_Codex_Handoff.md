@@ -2,6 +2,8 @@
 
 Use this document as the first thing to read when opening this repo on Mac.
 
+For the current Windows-side “拆解项目” context, read `WINDOWS_PROJECT_CONTEXT_HANDOFF.md` first. That file contains the concrete repo URLs, Windows paths, current status, important files, known issues, and exact next actions for Mac Codex.
+
 ## What this repo is for
 
 This repo exists to transfer context between:
@@ -26,13 +28,14 @@ If the visual or motion assets are missing, check `ASSET_INVENTORY.md`.
 ## What Mac Codex should do first
 
 1. Read this file
-2. Read `README.md`
-3. Read `PROJECT_CONTEXT_TEMPLATE.md`
-4. Read `PET_PROTOTYPE_NOTES.md`
-5. Read `ASSET_INVENTORY.md`
-6. Inspect the rest of the repository
-7. Look for the original implementation files or references
-8. If the actual project content is missing, ask for the source repo or the missing files rather than guessing
+2. Read `WINDOWS_PROJECT_CONTEXT_HANDOFF.md`
+3. Read `README.md`
+4. Read `PROJECT_CONTEXT_TEMPLATE.md`
+5. Read `PET_PROTOTYPE_NOTES.md`
+6. Read `ASSET_INVENTORY.md`
+7. Inspect the rest of the repository
+8. Look for the original implementation files or references
+9. If the actual project content is missing, ask for the source repo or the missing files rather than guessing
 
 ## What is not known yet
 

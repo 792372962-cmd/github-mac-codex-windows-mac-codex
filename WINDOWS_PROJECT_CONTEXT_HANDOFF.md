@@ -1,4 +1,4 @@
-# Mac Codex 接手上下文：Windows 拆解项目
+﻿# Mac Codex 接手上下文：Windows 拆解项目
 
 > 这份文档用于让 Mac 上的 Codex 直接接手，不要重新拆范围。  
 > 当前 Windows 本地路径：`C:\Users\Hjl\Documents\拆解项目`  
