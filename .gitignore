@@ -1,0 +1,19 @@
+# Local cloned source repos and generated app folders
+auto-news/
+ecommerce-architecture-quest/
+
+# Archives and build/dependency outputs
+*.zip
+node_modules/
+dist/
+
+# Coursework / unrelated document editing artifacts
+*.docx
+adjust_docx_font.py
+adjust_docx_table_font.py
+rebuild_docx_table_font.py
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
