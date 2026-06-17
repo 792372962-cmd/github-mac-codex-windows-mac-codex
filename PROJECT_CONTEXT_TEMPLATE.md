@@ -34,6 +34,7 @@ Fill this in before asking Mac Codex to continue the work.
 - State rules:
 - Known bugs or rough edges:
 - Screenshots or recordings:
+- Actual asset path: `assets/pets/gugu-gaga/`
 
 ## Mac Codex Instructions
 
@@ -47,4 +48,3 @@ Fill this in before asking Mac Codex to continue the work.
 1. 
 2. 
 3. 
-
